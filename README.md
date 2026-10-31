@@ -1,6 +1,6 @@
 # Multiscale Full Waveform Inversion in PyTorch (OpenFWI Benchmark)
 
-Undergraduate thesis code, Department of Geophysical Engineering, Institut Teknologi Sepuluh Nopember (ITS): *Seismic Inversion Based on Multiscale Full Waveform Inversion: Quantitative Analysis of P-Wave Velocity Estimation Using OpenFWI Benchmark Dataset.*
+Undergraduate thesis code, Department of Physics, Institut Teknologi Sepuluh Nopember (ITS): *Seismic Inversion Based on Multiscale Full Waveform Inversion: Quantitative Analysis of P-Wave Velocity Estimation Using OpenFWI Benchmark Dataset.*
 
 ## What this does
 
