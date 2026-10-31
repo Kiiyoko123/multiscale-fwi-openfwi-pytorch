@@ -25,7 +25,7 @@ Multiscale FWI gave only limited improvement over conventional FWI when the init
 
 1. **Environment:** Python 3 with PyTorch, NumPy, SciPy, and Matplotlib. A CUDA-capable GPU is recommended, since forward modeling and backpropagation through the FDTD time loop are computationally heavy.
 2. **Data:** download the OpenFWI datasets listed above and place the files where the notebook's data-loading cell expects them (adjust the path variable at the top of the notebook if needed).
-3. **Run:** open `multiscale_FWI.ipynb` and run all cells. Select the dataset and the initial model type (near or far) in the configuration cell. The notebook runs the multiscale inversion and the 300-iteration conventional baseline for comparison.
+3. **Run:** open `multiscale_fwi.ipynb` and run all cells. Select the dataset and the initial model type (near or far) in the configuration cell. The notebook runs the multiscale inversion and the 300-iteration conventional baseline for comparison.
 
 ## Development notes
 
